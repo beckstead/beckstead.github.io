@@ -1717,6 +1717,11 @@ body {
 .cid-qu660G2uxH .mbr-section-btn {
   text-align: right;
 }
+.cid-quq8XsHBFe {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
 #custom-html-l {
   /* Type valid CSS here */
 }
@@ -1811,9 +1816,9 @@ body {
   }
 }
 .cid-qucYGJWGL6 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #cebfaf;
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #cee2c4;
   position: relative;
 }
 .cid-qucYGJWGL6 .card {
@@ -1847,6 +1852,9 @@ body {
 }
 .cid-qucYGJWGL6 .card .panel-body {
   color: #767676;
+}
+.cid-qucYGJWGL6 .panel-text {
+  color: #232323;
 }
 .cid-qud8T355RD .google-map {
   height: 25rem;
