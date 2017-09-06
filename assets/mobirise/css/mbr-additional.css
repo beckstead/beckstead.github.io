@@ -1717,28 +1717,17 @@ body {
 .cid-qu660G2uxH .mbr-section-btn {
   text-align: right;
 }
-.cid-quq8XsHBFe {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-#custom-html-l {
-  /* Type valid CSS here */
-}
-#custom-html-l .my-image {
-  width: 100%;
-}
 .cid-qucYMbrNYz {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #efefef;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffb100;
 }
 .cid-qucYMbrNYz .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
 .cid-qucYMbrNYz .number-wrap {
-  color: #232323;
+  color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1757,7 +1746,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #ffb100;
+  color: #ffffff;
 }
 .cid-qucYMbrNYz .period {
   display: block;
@@ -1779,7 +1768,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #ffb100;
+  color: #ffffff;
 }
 .cid-qucYMbrNYz .countdown-cont {
   max-width: 700px;
@@ -1814,6 +1803,20 @@ body {
   .cid-qucYMbrNYz .period {
     font-size: 0.8rem;
   }
+}
+.cid-qucYMbrNYz B {
+  color: #232323;
+}
+.cid-quq8XsHBFe {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+#custom-html-l {
+  /* Type valid CSS here */
+}
+#custom-html-l .my-image {
+  width: 100%;
 }
 .cid-qucYGJWGL6 {
   padding-top: 135px;
@@ -1906,7 +1909,7 @@ body {
   color: #767676;
 }
 .cid-qudbNSSPVP .mbr-testimonial .panel-item {
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qudbNSSPVP .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
