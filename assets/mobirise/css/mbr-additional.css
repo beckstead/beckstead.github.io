@@ -1723,7 +1723,7 @@ body {
   background-color: #ffb100;
 }
 .cid-qucYMbrNYz .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   font-weight: 300;
 }
 .cid-qucYMbrNYz .number-wrap {
@@ -1807,6 +1807,12 @@ body {
 .cid-qucYMbrNYz B {
   color: #232323;
 }
+.cid-qucYMbrNYz .mbr-section-subtitle B {
+  color: #232323;
+}
+.cid-qucYMbrNYz FONT {
+  color: #232323;
+}
 .cid-quq8XsHBFe {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -1859,39 +1865,13 @@ body {
 .cid-qucYGJWGL6 .panel-text {
   color: #232323;
 }
-.cid-qud8T355RD .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-qud8T355RD .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-qud8T355RD .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-qud8T355RD .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-qud8T355RD .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-qudbNSSPVP {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/636219135526738544-golf-2000x1050.jpg");
 }
 .cid-qudbNSSPVP .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-qudbNSSPVP .media-container-row {
   -webkit-flex-wrap: wrap;
@@ -1943,6 +1923,12 @@ body {
     height: auto !important;
   }
 }
+.cid-qudbNSSPVP .mbr-section-subtitle B {
+  color: #232323;
+}
+.cid-qudbNSSPVP B {
+  color: #232323;
+}
 .cid-qucYWbEeeL {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1969,6 +1955,12 @@ body {
 .cid-qucYWbEeeL .input-group-btn {
   display: block;
   text-align: center;
+}
+#custom-html-y {
+  /* Type valid CSS here */
+}
+#custom-html-y .my-image {
+  width: 100%;
 }
 .cid-qucYnqWco4 {
   padding-top: 90px;
