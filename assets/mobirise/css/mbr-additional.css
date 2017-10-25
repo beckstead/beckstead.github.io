@@ -1939,7 +1939,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-qucYWbEeeL .mbr-section-subtitle {
-  color: #ffb100;
+  color: #f9f9f9;
 }
 .cid-qucYWbEeeL a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1962,6 +1962,12 @@ body {
 }
 .cid-qucYWbEeeL LABEL {
   color: #ffffff;
+}
+.cid-qucYWbEeeL .mbr-section-subtitle B {
+  color: #ffffff;
+}
+.cid-qucYWbEeeL H2 {
+  color: #f9f9f9;
 }
 .cid-qvViQ8XfFE {
   padding-top: 90px;
