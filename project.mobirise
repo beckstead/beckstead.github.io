@@ -779,6 +779,20 @@
           "_params": {}
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"container\">\n  <div class=\"row\">\n    <h2></h2>\n        <a class=\"pull-right\" href=\"http://bootsnipp.com/iframe/b2BWe\" target=\"_blank\"></a>\n    <hr>\n  </div>\n  \n  <div class=\"row\">\n    <div class=\"col-md-8\">\n      <iframe src=\"https://www.google.com/maps/d/embed?mid=1g6KnBmxyJsKtXAqtsEyvUqEaIiA\" width=\"150%\" height=\"450\" frameborder=\"20\" style=\"border:\"></iframe>\n      \n    </div>\n    <div class=\"col-md-8\">\n      <h2></h2>\n     \n      \n    </div>\n  </div>\n  \n  <p>\n    \t<a href=\"http://validator.w3.org/check?uri=http%3A%2F%2Fbootsnipp.com%2Fiframe%2Fb2BWe\" class=\"pull-right\" target=\"_blank\">\n\t\t\t<small></small><sup></sup>\n\t\t</a>\n\t\t</p>\n</div>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-t",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -825,20 +839,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"container\">\n  <div class=\"row\">\n    <h2></h2>\n        <a class=\"pull-right\" href=\"http://bootsnipp.com/iframe/b2BWe\" target=\"_blank\"></a>\n    <hr>\n  </div>\n  \n  <div class=\"row\">\n    <div class=\"col-md-8\">\n      <iframe src=\"https://www.google.com/maps/d/embed?mid=1g6KnBmxyJsKtXAqtsEyvUqEaIiA\" width=\"150%\" height=\"450\" frameborder=\"20\" style=\"border:\"></iframe>\n      \n    </div>\n    <div class=\"col-md-8\">\n      <h2></h2>\n     \n      \n    </div>\n  </div>\n  \n  <p>\n    \t<a href=\"http://validator.w3.org/check?uri=http%3A%2F%2Fbootsnipp.com%2Fiframe%2Fb2BWe\" class=\"pull-right\" target=\"_blank\">\n\t\t\t<small></small><sup></sup>\n\t\t</a>\n\t\t</p>\n</div>",
-          "_customCSS": "",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-t",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         },
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
