@@ -1933,13 +1933,13 @@ body {
 .cid-qucYWbEeeL {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #b2ccd2;
+  background-image: url("../../../assets/images/misc-4-1200x800.jpg");
 }
 .cid-qucYWbEeeL .title {
   margin-bottom: 2rem;
 }
 .cid-qucYWbEeeL .mbr-section-subtitle {
-  color: #ffffff;
+  color: #ffb100;
 }
 .cid-qucYWbEeeL a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1957,10 +1957,16 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qucYWbEeeL B {
+  color: #ffffff;
+}
+.cid-qucYWbEeeL LABEL {
+  color: #ffffff;
+}
 .cid-qvViQ8XfFE {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #cee2c4;
 }
 .cid-qvViQ8XfFE .mbr-section-subtitle {
   color: #767676;
