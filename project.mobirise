@@ -40,7 +40,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/if-golf-103255-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.2.3",
-    "uniqCompNum": 69,
+    "uniqCompNum": 71,
     "versionPublish": "4.3.4",
     "mcShopcart": {
       "email": "beckstead@gmail.com",
@@ -62,7 +62,7 @@
         "main": true,
         "title": "PhxOpenTix | Buy Now",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<script src=\"//load.sumome.com/\" data-sumo-site-id=\"e802fbd3e6a811101160984b873be7ce15268740c215aa618d783d97387a66e9\" async=\"async\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
